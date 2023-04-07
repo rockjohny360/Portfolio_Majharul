@@ -1,6 +1,6 @@
 # Hi, I'm Majharul Islam (Johny) 👋
 
-I'm a data analyst with 4 years of experience in [industry or specialization]. I am passionate about using data to drive business decisions and provide insights that help organizations make informed choices.
+I'm a data analyst with 4 years of experience in Marketing Analytics. As a data analyst with a strong analytical mindset and a passion for delivering data-driven insights. He is experienced in developing alternatives, inspiring and communicating with team members, and cultivating leadership. Proficient in Excel, Tableau, and SQL, he provides real-time insights into product, marketing funnels, and business KPIs. With a degree in Marketing Analytics and a minor in Communication Studies, Majharul is equipped with the skills necessary to curate statistical analysis and visualize key metrics, generating over 300 consultations with charts and graphs. He is dedicated to data-driven decision-making and is a valuable asset to any organization seeking to leverage data to achieve success.
 
 ## 🔭 My Skills
 
@@ -14,7 +14,7 @@ I'm a data analyst with 4 years of experience in [industry or specialization]. I
 
 ### Project Name 1
 
-![Project Name 1 Image] ![My Image](images/almart Retail Data Analysis Dashboard picture.PNG)
+![Project Name 1 Image](images/project1.png)
 
 Project description goes here.
 
@@ -31,7 +31,7 @@ Project description goes here.
 
 ## 📈 My Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username= Majharul&show_icons=true&theme=radical)](https://github.com/Majharul)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Majharul&show_icons=true&theme=radical)](https://github.com/Majharul)
 
 ## 📫 How to reach me
 
