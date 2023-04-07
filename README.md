@@ -82,4 +82,4 @@ Overall, this project provides valuable insights into the demographic informatio
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: majharul.islam86b@gmail.com
+- [Email](mailto:majharul.islam86b@gmail.com): majharul.islam86b@gmail.com
