@@ -68,18 +68,18 @@ Overall, this project provides valuable insights into the demographic informatio
 
 ## 🔍 Marketing Analytics Courses
 
-- Marketing Research: An introduction to the research process, including problem formulation, research design, data collection, and analysis methods for marketing research.
-- Consumer Behavior: An examination of the psychological, sociological, and cultural factors that influence consumer behavior, including the decision-making process, attitudes, perception, and learning.
-- Marketing Analytics: An overview of the role of data analytics in marketing, including market segmentation, customer profiling, and predictive modeling.
-- Marketing Strategy: An exploration of the strategic planning process for marketing, including product development, pricing, promotion, and distribution.
-- Web Analytics and Intelligence: An introduction to the use of web analytics tools to collect and analyze data on website traffic, user behavior, and other metrics.
-- Internet Marketing: An overview of digital marketing strategies and techniques, including search engine optimization (SEO), social media marketing, email marketing, and online advertising.
-- Text Analytics for Marketing: An exploration of the use of natural language processing (NLP) techniques to analyze and extract insights from text data for marketing purposes.
-- Marketing Analytics with Big Data: An introduction to the use of big data in marketing analytics, including data storage and management, data mining, and machine learning techniques. 
-
+- **Marketing Research:** An introduction to the research process, including problem formulation, research design, data collection, and analysis methods for marketing research.
+- **Consumer Behavior:** An examination of the psychological, sociological, and cultural factors that influence consumer behavior, including the decision-making process, attitudes, perception, and learning.
+- **Marketing Analytics:** An overview of the role of data analytics in marketing, including market segmentation, customer profiling, and predictive modeling.
+- **Marketing Strategy:** An exploration of the strategic planning process for marketing, including product development, pricing, promotion, and distribution.
+- **Web Analytics and Intelligence:** An introduction to the use of web analytics tools to collect and analyze data on website traffic, user behavior, and other metrics.
+- **Internet Marketing:** An overview of digital marketing strategies and techniques, including search engine optimization (SEO), social media marketing, email marketing, and online advertising.
+- **Text Analytics for Marketing:** An exploration of the use of natural language processing (NLP) techniques to analyze and extract insights from text data for marketing purposes.
+- **Marketing Analytics with Big Data:** An introduction to the use of big data in marketing analytics, including data storage and management, data mining, and machine learning techniques.
+ 
 ## 📈 My Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Majharul&show_icons=true&theme=radical)](https://github.com/Majharul)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rockjohny360&show_icons=true&theme=algolia)](https://github.com/rockjohny360)
 
 ## 📫 How to reach me
 
