@@ -14,7 +14,7 @@ I'm a data analyst with 4 years of experience in [industry or specialization]. I
 
 ### Project Name 1
 
-![Project Name 1 Image](images/project1.png)
+![Project Name 1 Image] ![My Image](images/almart Retail Data Analysis Dashboard picture.PNG)
 
 Project description goes here.
 
