@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://tenor.com/view/data-analysis-graph-chart-gif-23151718.gif" width="400" height="300" hspace="20"/>
   <img src="https://media.giphy.com/media/MMHIbfv0QME8utoEkE/giphy.gif" width="400" height="300" hspace="20"/> 
-</p>
-
+</p> 
 # <h2 align="center"><b>Hi, I'm Majharul Islam (Johny) </b></h2>
 
 <p align="center">I'm a data analyst with 4 years of experience in Marketing Analytics, equipped with a degree in Marketing Analytics and a minor in Communication Studies. I have a strong analytical mindset and a passion for delivering data-driven insights. Proficient in Excel, Tableau, and SQL, I provide real-time insights into product, marketing funnels, and business KPIs. I'm experienced in developing alternatives, inspiring and communicating with team members, and cultivating leadership. I'm dedicated to data-driven decision-making and have generated over 300 consultations with charts and graphs. I'm a valuable asset to any organization seeking to leverage data to achieve success.</p>
