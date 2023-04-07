@@ -18,7 +18,7 @@
 
 ### Walmart Retail Data Analysis
 
-![Walmart Retail Data Analysis Dashboard](https://github.com/rockjohny360/Portfolio_Majharul/blob/main/Walmart%20Retail%20Data%20Analysis%20Dashboard%20picture.PNG?raw=true)
+![Walmart Retail Data Analysis Dashboard](https://raw.githubusercontent.com/rockjohny360/Portfolio_Majharul/f4227d0f77346934e3baec3cc035d46cd532f433/Walmart%20Retail%20Data%20Analysis%20Dashboard%20picture.PNG)
 
 The Walmart retail data analysis dashboard is an interactive visualization tool that provides insights into the sales and profitability of Walmart across different states in the US. The dashboard uses a dataset from Kaggle that contains over 8,400 records of retail transactions.
 
