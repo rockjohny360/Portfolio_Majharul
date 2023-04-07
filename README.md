@@ -28,6 +28,8 @@ Finally, the regional quarterly average profit visualization shows the trends of
 
 Overall, the Walmart retail data analysis dashboard is an excellent tool for anyone looking to gain insights into the sales and profitability of Walmart, and can be used to identify areas of improvement and optimize the business for greater success.
 
+- [Project Link](https://github.com/rockjohny360/Walmart-Retail-Data-Analysis-Dashboard-)
+
 ### Bike Buyers 
 
 ![Bike Buyers Dashboard](https://github.com/rockjohny360/Majharul-Islam-Profile-/blob/main/Bike%20Buyers%20Dashboard%20Image.PNG)
@@ -41,6 +43,8 @@ Next, three pivot tables were created to analyze different aspects of the datase
 Finally, a dashboard was created that includes interactive stats and visuals. The interactive features include stats related to marital status, region, education, and occupation, allowing users to filter the data based on these categories. The visuals include the average income per purchase, customer age brackets, and customer commute time, providing insights into the relationship between income, age, and proximity to work or other destinations.
 
 Overall, this project provides valuable insights into the demographic information of bike buyers, helping businesses understand their target audience and make data-driven decisions based on the insights provided.
+
+- [Project Link](https://github.com/rockjohny360/Bike-Buyer-)
 
 ## 🌱 My Experience
 
@@ -72,5 +76,5 @@ Overall, this project provides valuable insights into the demographic informatio
 
 ## 📫 How to reach me
 
-- Email: majharul.islam86b@gmail.com
-- LinkedIn: https://www.linkedin.com/in/majharul-islam-413853207/
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email(majharul.islam86b@gmail.com)
