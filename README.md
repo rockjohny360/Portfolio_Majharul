@@ -1,6 +1,6 @@
 # Hi, I'm Majharul Islam (Johny) 👋
 
-I'm a data analyst with 4 years of experience in Marketing Analytics. As a data analyst with a strong analytical mindset and a passion for delivering data-driven insights. He is experienced in developing alternatives, inspiring and communicating with team members, and cultivating leadership. Proficient in Excel, Tableau, and SQL, he provides real-time insights into product, marketing funnels, and business KPIs. With a degree in Marketing Analytics and a minor in Communication Studies, Majharul is equipped with the skills necessary to curate statistical analysis and visualize key metrics, generating over 300 consultations with charts and graphs. He is dedicated to data-driven decision-making and is a valuable asset to any organization seeking to leverage data to achieve success.
+I'm a data analyst with 4 years of experience in Marketing Analytics, equipped with a degree in Marketing Analytics and a minor in Communication Studies. I have a strong analytical mindset and a passion for delivering data-driven insights. Proficient in Excel, Tableau, and SQL, I provide real-time insights into product, marketing funnels, and business KPIs. I'm experienced in developing alternatives, inspiring and communicating with team members, and cultivating leadership. I'm dedicated to data-driven decision-making and have generated over 300 consultations with charts and graphs. I'm a valuable asset to any organization seeking to leverage data to achieve success.
 
 ## 🔭 My Skills
 
