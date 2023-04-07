@@ -9,11 +9,13 @@
 
 ## 🔭 My Skills
 
-- Data analysis using SQL, Excel, and Tableau
-- Data visualization and dashboard creation
-- Statistical analysis and modeling
-- Data cleaning and manipulation
-- Data mining and extraction
+Here are some of the skills I've developed through my experience in the data industry:
+
+- **Data analysis:** I'm proficient in using SQL, Excel, and Tableau to analyze large datasets and derive insights.
+- **Data visualization:** I enjoy creating visually appealing dashboards and charts to effectively communicate data.
+- **Statistical modeling:** I have experience in conducting statistical analysis and building predictive models to uncover hidden patterns in data.
+- **Data wrangling:** I can clean and manipulate messy data to make it usable for analysis.
+- **Data mining and extraction:** I'm skilled in extracting valuable information from various sources using tools such as web scraping and APIs.
 
 ## 📊 My Projects
 
