@@ -18,7 +18,7 @@
 
 ### Walmart Retail Data Analysis
 
-![Walmart Retail Data Analysis Dashboard](https://github.com/rockjohny360/Majharul-Islam-Profile-/blob/main/Walmart%20Retail%20Data%20Analysis%20Dashboard%20picture.PNG "Walmart Retail Data Analysis Dashboard")
+![Walmart Retail Data Analysis Dashboard](https://github.com/rockjohny360/Portfolio_Majharul/blob/main/Walmart%20Retail%20Data%20Analysis%20Dashboard%20picture.PNG?raw=true)
 
 The Walmart retail data analysis dashboard is an interactive visualization tool that provides insights into the sales and profitability of Walmart across different states in the US. The dashboard uses a dataset from Kaggle that contains over 8,400 records of retail transactions.
 
@@ -36,7 +36,7 @@ Overall, the Walmart retail data analysis dashboard is an excellent tool for any
 
 ### Bike Buyers 
 
-![Bike Buyers Dashboard](https://github.com/rockjohny360/Majharul-Islam-Profile-/blob/main/Bike%20Buyers%20Dashboard%20Image.PNG)
+![Bike Buyers Dashboard Image](https://github.com/rockjohny360/Portfolio_Majharul/blob/main/Bike%20Buyers%20Dashboard%20Image.PNG?raw=true)
 
 The project involves analyzing a demographic dataset of bike buyers sourced from Kaggle, a popular data science community that provides various datasets for analysis and projects. The dataset includes columns such as ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, and Purchased Bike.
 
