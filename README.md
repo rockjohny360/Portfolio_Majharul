@@ -83,5 +83,5 @@ Overall, this project provides valuable insights into the demographic informatio
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/majharul-islam-413853207/)
 - [Email](mailto:majharul.islam86b@gmail.com): majharul.islam86b@gmail.com
