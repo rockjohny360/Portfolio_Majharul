@@ -5,7 +5,7 @@
 
 <h1 align="center"><b><font size="7">Hi, I'm Majharul Islam (Johny)</font></b></h1>
 
-<p align="center">I'm a data analyst with 4 years of experience in Marketing Analytics, equipped with a degree in Marketing Analytics and a minor in Communication Studies. I have a strong analytical mindset and a passion for delivering data-driven insights. Proficient in Excel, Tableau, and SQL, I provide real-time insights into product, marketing funnels, and business KPIs. I'm experienced in developing alternatives, inspiring and communicating with team members, and cultivating leadership. I'm dedicated to data-driven decision-making and have generated over 300 consultations with charts and graphs. I'm a valuable asset to any organization seeking to leverage data to achieve success.</p>
+<p align="center">I'm a data analyst with 4 years of experience in Analytics, equipped with a degree in Marketing Analytics and a minor in Communication Studies. I have a strong analytical mindset and a passion for delivering data-driven insights. Proficient in Excel, Tableau, and SQL, I provide real-time insights into product, marketing funnels, and business KPIs. I'm experienced in developing alternatives, inspiring and communicating with team members, and cultivating leadership. I'm dedicated to data-driven decision-making and have generated over 300 consultations with charts and graphs. I'm a valuable asset to any organization seeking to leverage data to achieve success.</p>
 
 ## 🔭 My Skills
 
